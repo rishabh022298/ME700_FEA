@@ -1,0 +1,3 @@
+Help from ChatGPT was taken to:
+1. Calculating stiffness matrix and setting up the problem.
+2. Writing plotting function.
