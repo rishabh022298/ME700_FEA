@@ -1,5 +1,7 @@
 # finite-element-analysis
 
+This repository is mainly based on [finite-element-analysis](https://github.com/Lejeune-Lab-Graduate-Course-Materials/finite-element-analysis). The tutorial for Assignment 3 part 1 can be found in the file named as "triangular_lin.ipynb".
+
 [![python](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/)
 ![os](https://img.shields.io/badge/os-ubuntu%20|%20macos%20|%20windows-blue.svg)
 [![license](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/sandialabs/sibl#license)
